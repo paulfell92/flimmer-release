@@ -1,6 +1,6 @@
 # Raphlix – Downloads
 
-Fertige Installationsdatei für Raphlix (Android TV), aktuell Version 0.1.18.
+Fertige Installationsdatei für Raphlix (Android TV), aktuell Version 0.1.22.
 
 Am Fernseher in der App **Downloader** eingeben:
 
